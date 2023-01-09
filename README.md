@@ -1,8 +1,8 @@
 ![Header](https://github.com/stamalt/StamalT/blob/main/assets/stml.png)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+# I'm a Junior QA Engineer
+
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/1KjunvpxTQDuunnZxsql9pkqwZb_Xuhjl/view?usp=share_link)
 
 
 ### Language and Tools
