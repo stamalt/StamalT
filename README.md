@@ -30,4 +30,4 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/StamalT)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tanya-stamal/?midToken=AQEsnExn_XuTlw&midSig=3BQmjsU1WivWA1&trk=eml-email_notification_single_mentioned_you_in_this_01-header-12-profile&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-header-12-profile-null-gjh544%7Elcmgwtas%7Ewa-null-neptune%2Fprofile%7Evanity%2Eview)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StamalT&show_icons=true&theme=radical)
