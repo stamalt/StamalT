@@ -1,18 +1,9 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](C:\Users\User\git\StamalT\assets\stml.png)]
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [КАКИЕ ПРИОРИТЕТЫ В ОБУЧЕНИИ У ТЕСТИРОВЩИКА-НОВИЧКА?](https://www.youtube.com/watch?v=7bww2-3ZosQ)
-- [ЧТО ЖДЁТ ТЕБЯ В ТЕСТОВОМ ЗАДАНИИ ДЛЯ ТЕСТИРОВЩИКА?](https://www.youtube.com/watch?v=tPqmMaHlAc4)
-- [Как создать резюме для тестировщика &lpar;QA Engineer&rpar; в 2023? + Итоги года](https://www.youtube.com/watch?v=Z2ykWJE9wCA)
-- [Автоматизация и ручное тестирование. Обзор](https://www.youtube.com/watch?v=hhV7pIHQGMo)
-- [РАЗРАБОТЧИК ПРОТИВ &lpar;ЗА&rpar; ТЕСТИРОВЩИКА с @m0rtymerr](https://www.youtube.com/watch?v=EuLzxYEg-SA)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
