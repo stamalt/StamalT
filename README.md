@@ -23,7 +23,7 @@
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
