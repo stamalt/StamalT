@@ -1,5 +1,5 @@
 ![Header](https://github.com/stamalt/StamalT/blob/main/assets/stml.png)
-# I'm a Junior QA Engineer
+## I'm a Junior QA Engineer
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1KjunvpxTQDuunnZxsql9pkqwZb_Xuhjl/view?usp=share_link)
