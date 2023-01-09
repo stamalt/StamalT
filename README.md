@@ -1,4 +1,4 @@
-[![Header](https://github.com/stamalt/StamalT/blob/main/assets/stml.png)]
+![Header](https://github.com/stamalt/StamalT/blob/main/assets/stml.png)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
