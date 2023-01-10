@@ -23,9 +23,9 @@
 - [Checklists and Test-Suites](https://github.com/stamalt/Checklists/commit/4004af39311ab32fa433de28eea78826df238572)
 - [Test-Cases](https://github.com/stamalt/Test-Cases/commit/a4eb1a3173dfb6371524ce61682590c8251e317a)
 - [Test-Cases API](https://github.com/stamalt/Test-Cases/commit/0101b3ac8093b55292c8237529197e3d33f86d73)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Bug-Reports](https://github.com/stamalt/Bug-Reports/commit/ef61f09c314362027598621f68628e9f2780eef1)
 - [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections]()
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/StamalT)
