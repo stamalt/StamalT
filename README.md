@@ -20,7 +20,7 @@
 
 ### Testing Documentation
 
-- [Checklists and Test-Suites](https://github.com/artichokeee/checklist)
+- [Checklists and Test-Suites](https://github.com/stamalt/Checklists/commit/4004af39311ab32fa433de28eea78826df238572)
 - [Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
