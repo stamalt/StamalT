@@ -21,7 +21,7 @@
 ### Testing Documentation
 
 - [Checklists and Test-Suites](https://github.com/stamalt/Checklists/commit/4004af39311ab32fa433de28eea78826df238572)
-- [Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Cases](https://github.com/stamalt/Test-Cases/commit/a4eb1a3173dfb6371524ce61682590c8251e317a)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
 - [Postman Collections](https://github.com/artichokeee/postman)
