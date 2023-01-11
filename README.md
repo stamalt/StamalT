@@ -25,7 +25,7 @@
 - [Test-Cases API](https://github.com/stamalt/Test-Cases/commit/0101b3ac8093b55292c8237529197e3d33f86d73)
 - [Bug-Reports](https://github.com/stamalt/Bug-Reports/commit/ef61f09c314362027598621f68628e9f2780eef1)
 - [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
-- [Postman Collections]()
+- [Postman Collections](https://www.postman.com/martian-star-151669/workspace/hw-rusau/collection/20982350-8ebf56ef-12e4-4cdb-ad8a-a3a008ca67cf)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/StamalT)
