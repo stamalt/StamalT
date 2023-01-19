@@ -26,7 +26,7 @@
 - [Bug-Reports](https://github.com/stamalt/Bug-Reports/commit/ef61f09c314362027598621f68628e9f2780eef1)
 - [SQL Queries](https://github.com/stamalt/SQL-Queries/blob/main/SQL%20Queries.txt)
 - [Postman Collections](https://www.postman.com/martian-star-151669/workspace/hw-rusau/collection/20982350-8ebf56ef-12e4-4cdb-ad8a-a3a008ca67cf)
-- [GitBash](https://github.com/stamalt/GitBash)
+- [GitBash](https://github.com/stamalt/GitBash/blob/main/Task.txt)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/StamalT)
